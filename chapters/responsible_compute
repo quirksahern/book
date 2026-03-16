@@ -1,1 +1,103 @@
+---
+title: "Hype and The Need for Responsible Compute "
+bibliography: references.bib
+author:
+  - name: Samantha Ahern
+    email: author@one.com
+    corresponding: true
+    affiliations: Edinburgh Medical School, University of Edinburgh
+  - name: Samuel Skipsey
+    email: author@two.com
+    affiliations: Edinburgh Medical School, University of Edinburgh
+  - name: Leo Rivera
+    email: author@three.com
+    affiliations: School of Mathematics and Maxwell Institute for the Mathematical Sciences, University of Edinburgh
+  - name: Pawel
+    email: author@three.com
+    affiliations: School of Mathematics and Maxwell Institute for the Mathematical Sciences, University of Edinburgh
 
+keywords:
+  - ethics
+  - AI
+  - society
+  - sustainability
+---
+
+## Introduction
+
+Hypes come and go, and in their aftermath we are left with rubbish and confusion. We are aware of physical trash in landfills, 
+but rapid technological change also leads to inequality, injustice, and unhelpful social patterns. It is like technical debt 
+(the price we pay later for poor and short-sighted technological decisions now), but on a social level. It is something we can't 
+responsibly ignore as educators and humans.
+
+It's very relevant now that we are in the midst of (another!) AI hype. And if history taught us anything, after summer will come winter, 
+with its sloppy sludge of half-melted mess to deal with. Disturbingly, current narratives of this hype are written by tech bros with a strong 
+(self-serving) agenda. The chorus of this song is 'growth, growth, growth', but growth where and why? We were sold on the dream of machines doing 
+the dishes so that we can write poetry... but instead machines write poetry and we are left with a pile of dirty dishes. Can we afford for art and critical thinking to become on-demand paid subscriptions ('brain as a service') as we outsource our criticality like we delegate our driving to Uber? Is it good for society to replace human companionship with chatbot ‘partners’?
+
+> “how do we guarantee that computers and other cultural products are not so pleasurable that they discourage us from engaging in absolutely necessary forms of social engagement?” []
+
+As educators, our responsibility is not to prepare students for the grim post-brain-apocalyptic future, but to inspire them to create a better, sustainable world.
+
+The worst that can happen, is that we educate another generation of self-serving tech bros, who will ruin the world and humanity further. It's irresponsible to teach any skill without also teaching the ethical, social, economical or political context. Especially when topics we teach have strong creative and destructive potential (martial arts, nuclear physics, programming). But how do we make these responsibility topics 'not skippable'? In a university setting, ethics can't just be an optional elective subject; or even just a week of content within a core compulsory subject. We need 5 mins of ethics in every hour of teaching, we need a thought about ethics in every sentence. We do not need ethical bits in our yoghurt, we need ethics-flavoured yoghurt.
+
+In this chapter we look at a number of topics where sustainability, AI, and education (or even wider culture) overlap. We will structure our thoughts around the international framework suggested by the United Nations: UN Sustainable Development Goals. Join us on this exploration of what is possible, but also of what went terribly wrong in the past. We will look especially at purposefully forgotten (or swept under the carpet) aftermaths of previous technological hypes.
+
+At the end of this chapter we will bring it back to education with some practical resources you can use. You will find classroom activities that support responsible computing interspersed throughout, and a reading list of our favourite articles and books. Feel free to pick some of them and plant them straight into your own curriculum. And weather-allowing, from these seeds we will watch the growth of a new, curious and slightly more sustainable generation of students and future teachers.
+
+### A subsection
+
+This is an example subsection, starting with `###`.
+
+## Quarto Markdown quick examples
+
+### Citations
+
+An example citation [@williams2010pair]. You can also cite @williams2010pair in the text, without the brackets.
+
+This is a reference to a chapter of a book [@TeachProgAcross_C01]. You can find it in `references.bib`; it uses the `@inbook` type.
+
+The "References" section will be populated automatically at the bottom.
+
+### Footnotes
+
+This is some text with a footnote[^C00-myfootnote].
+
+[^C00-myfootnote]: Write the content of your footnote here.
+
+    If you need a multiline footnote, indent the following lines with 4 spaces...
+
+    ...like this. Everything indented will be part of the footnote.
+
+### URL links
+
+Use [link text](https://quarto.org) to include URL links; please refer to the accessibility guidance in the book submission guidelines.
+
+If it is absolutely necessary to display the full URL in the text, use `<...>`: <https://quarto.org>
+
+### Images
+
+
+![This is the caption for an image, sized to take 70% of the screen width.](/chapters/images/C36_pair-programming-across-disciplines_online_ideas.png "Some Title, appears on mouse hover"){fig-alt="Some alt text for accessibility." width=70%}
+
+
+[![This is the caption for an image with a clickable link.](/chapters/images/C36_pair-programming-across-disciplines_online_ideas.png "Some Title, appears on mouse hover"){fig-alt="Some alt text for accessibility." width=70%}](https://quarto.org)
+
+
+### Putting some content in a box
+
+:::{.callout-tip icon="false"}
+# Title of your box
+
+You can put some content in a box like this, called a [callout](https://quarto.org/docs/authoring/callouts.html), if you want it to be visually distinct from the rest of your chapter. This could be e.g. if you write an example or a short case study.
+
+:::
+
+
+
+
+::: {.content-visible when-format="html" unless-format="epub"}
+
+## References {.unnumbered}
+
+:::
