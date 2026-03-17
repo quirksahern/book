@@ -64,9 +64,11 @@ The free website inequalities.ai provides maps that show how ChatGPT 4o-mini rat
 The Programming Historian lesson [Facial Recognition in Historical Photographs with Artificial Intelligence in Python](https://programminghistorian.org/en/lessons/facial-recognition-ai-python) introduces key concepts of facial recognition. This tutorial can be expanded to introduce key issues related to inequalities.
 
 **Example: Blackish, Series 5 Episode 10** 
+
 In this episode Diane is “invisible” in her class photo. This can be a starting point to discuss engineered inequity. 
 
 **Example: Lena and Google Photos**
+
 An opportunity to discuss the culture of the research labs where image recognition technologies were developed, how this became part of the “canon”, and issues with inadequate training data.
 
 For an example of how these resources can be included, see Programming Historian - workshop overview.
@@ -86,13 +88,97 @@ Mining of **coltan**, the dominant source of tantalum (and niobium), is infamous
 Current business models are based upon planned obsolescence. This could lead to a discussion of the sustainability of this business model and why the hardware cannot just be manufactured and why computational hardware has a short supported lifespan compared to its actual usable lifespan.
 
 **Example: River of Gold**
+
 Watch the documentary River of Gold: (https://riverofgoldfilm.com/about-the-film/)
 Explore how the [Amazon Aid Be a Better Guide](https://amazonaid.org/be-a-better-consumer/)relates to the production of electronic hardware
 
 **Example: Simon Reeve’s South America, Episodes 3 & 4**
+
 Episode 3 is in the Andes and features a high altitude gold mine and the working conditions of employees. Episode 4 features the salt flats and lithium extraction
 
 These issues can also be discussed in workshops relating to code optimisation and green compute. Reasons for optimisation may be for decreasing time to result, or to optimise the amount of social good for the environmental harms.
+
+### Data acquisition and workforce exploitation 
+
+In 2019, the IBM corporation was criticised for using Flickr photos in a facial-recognition project without obtaining the consent of those who had created or were featured in the images (22).
+
+As most images used for machine learning are scraped from the internet and are not well tagged, a large workforce is needed to create this additional metadata. Similarly, tagging of content as illegal or otherwise problematic requires a large amount of initial training data which is manually tagged by humans. To do so at scale, at an affordable cost, AI companies employ outsourcing partners such as Sama, which pay workers in Kenya, Uganda and India a pittance (typically $2/hr) for this work. (25)This is true even when the content being labelled is known to be obscene and/or deeply distressing - graphic descriptions of sexual assault, for example, or images depicting abuse. To their credit, eventually Sama cancelled some of their worst contracts with AI companies, but other outsourcing companies exist and still perform similar work.
+
+The recent AI boom and the Data Workers Inquiry have highlighted these issues, but concerns regarding Amazon’s Mechanical Turk (MTurk) and its workers were being raised back in 2015, and again in 2024.(26)(27) Despite these concerns, MTurk is still used by many researchers across multiple domains.
+
+#### Classroom activities
+
+**Example: Data Workers Inquiry**
+
+Explore [Data Workers in Europe Speak Out](https://data-workers.org/). Do these experiences align with notions of decent work? What are the harms?
+
+**Example: [Hugging Face RAG tutorial](https://huggingface.co/blog/ngxson/make-your-own-rag)**
+
+In this part of the tutorial, you could discuss the source of the file contents for the RAG training. This could then lead into discussions around access and licensing. 
+
+### Surveillance, Sousveillance and Civil Liberties
+
+In 2018 the British Council published an article based on a letter by Tim Berners Lee (15), where he raised concerns about the dark-side of the web, alongside his hopes for the future. Specifically, he raised concerns around the concentration of power and the gatekeeping effect which enables a “handful of platforms to control which ideas and opinions are seen and shared”. 
+
+These fears are now being realised. According to the Fortune 500 Global rankings, Amazon is the second largest grossing organisation in 2025 and has been in the Fortune 500 Global rankings list for 17 years. Apple is 8th, Alphabet 13th, Microsoft 22nd and Meta Platforms 41st. These companies rely heavily on our data for their platforms and services, producing tools and platforms that shape our everyday lives. (16)
+
+This sentiment is also echoed by contemporary academics. Take David Golumbia, who in the introductory chapter of The Cultural Logic of Computation, asks (17, p4) “what happens when powerful institutions - corporations, governments, schools - embrace computationalism as a working philosophy”. It entrenches power and enmeshes instrumental reason with neoliberalism, despite being framed in terms of distributed power and democratic participation.
+
+In surveillance and sousveillance, the same technologies are used by both those in positions of authority and those wishing to hold them to account. The majority of public spaces are fitted with cameras and other monitoring equipment, many of which have been introduced as public safety initiatives. The few watching the many. There have been concerns related to privacy associated with these technologies. Most recently, an [audit by the Information Commissioner’s Office](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/08/ico-steps-up-scrutiny-of-police-use-of-facial-recognition-technology-with-audit-of-south-wales-police-and-gwent-police/) on the use of facial recognition technology by South Wales Police and Gwent Police . Sousveillance is a form of inverse surveillance, “watching the watchers”, facilitated by mobile digital camera technologies and high speed mobile data connections, has steadily been growing. Its can be for either recording personal experiences or the monitoring of authority figures (hierarchical sousveillance) (14), and can have both positive (e.g. the recording of the George Floyd incident) and negative impacts on individuals (e.g., cyber harassment) and organisations.
+
+#### Classroom activities
+
+**Example: [Datopolis - The Open Data Board Game](https://datopolis.theodi.org/)**
+
+This board game from the Open Data Initiative is available to play online. It introduces key ideas around why data may be open or closed, and longer versions of the game introduce different perspectives on how data can be used. This helps learners to understand that decisions around data use are political and opens up the idea that data itself may not be neutral.
+
+**Example: Explore whether AI smart glasses should be a consumer technology**
+
+In 2013 Google launched its Google Glass smart glasses, due to resistance and concerns over use; these were withdrawn from the market in 2015. However, this technology has seen a resurgence. Meta launched AI enabled smart glasses in the autumn of 2025, and Google are considering re-entering the market. However, there are already rising concerns over how these devices are being used.
+
+A number of campuses in the USA have issued guidance to students over use on campus and threats to safety (https://people.com/university-issues-warning-after-reports-of-man-using-ray-ban-meta-sunglasses-to-record-women-on-campus-11824196). Smart glasses also pose risks to their wearers: a recent expose revealed that all video recorded on Meta smart glasses is reviewed by data annotators employed by Sama (see previous section). This is not made clear to users of the glasses, who often record intimate parts of their lives on their product. The Information Commissioner’s Office has written to Meta about concerns (https://www.bbc.co.uk/news/articles/c0q33nvj0qpo).
+
+Students may discuss what the benefit is for Meta and Google in providing smart glasses. Should they be an industrial or a consumer product? 
+This can lead into discussions about corporate responsibility and "surveillance capitalism".
+
+**Example: [Explore the AI Incidents Database](https://incidentdatabase.ai/)**
+
+This website is a project of the Responsible AI Collective, an archive of actual harms or near harms of deployed AI systems. The taxonomies of [Goals, Methods, and Failures (GMF)](https://incidentdatabase.ai/taxonomies/gmf/) and [MIT AI Risk Repository](https://incidentdatabase.ai/taxonomies/mit/) are particularly interesting and could be used when discussing a particular technology or potential for harm.
+
+### Cultural Colonialism
+
+A related problem to inequity in "AI model training" is inequity in generated content. 
+
+Large Language Models generate "plausible" text based on the patterns found in the material they are trained on. However, this material is overwhelmingly English-language, and written by US or British citizens, introducing a cultural bias into the responses from the models themselves. 
+( https://academic.oup.com/pnasnexus/article/3/9/pgae346/7756548 , https://dl.acm.org/doi/10.1145/3544548.3581196 )
+
+As pressure is placed on educational institutions to include "AI" in teaching-related roles, this brings the risk that students learn homogeneous values, potentially those of foreign cultures. This extends not merely to values, but also styles of writing: the "distinctive" tone of an LLM-generated piece of text is a distillation of the dominant styles in its training set. 
+( https://dl.acm.org/doi/10.1145/3706598.3713564 ), and writers relying on LLMs to "co-develop" essays tend to defer to the LLM's style suggestions relative to their own, even when these stylistic differences are those of culture, not correctness. The effect begins with normative suggestions from spell- and grammar-checkers in text editing software since the 1980s—British English speakers often being "corrected" by default US English software; and also introducing unique cases of language drift when the software encountered words that were not in its dictionary (https://blog.oup.com/2007/11/spellchecker/).
+
+This inhibition of local culture in favour of a "preferred" culture is that of cultural colonisation. This pattern is seen historically in the behaviour of many empires. For example, the British occupation of Ireland during the 16th to early 20th centuries was associated with a suppression of Irish culture and language,  (  https://kairosmagazine.rutgers.edu/killing-off-irish/ ) something mirrored in the suppression of Scottish Gaelic and Lowland Scots in Scotland, Welsh in Wales; and the replacement of local languages by English across the British Empire ( https://englishproject.org/how-colonialism-spread-the-english-language/ ). Cultural homogenisation also occurs within countries: France ( https://fr.wikisource.org/wiki/Rapport_sur_la_n%C3%A9cessit%C3%A9_et_les_moyens_d%E2%80%99an%C3%A9antir_les_patois_et_d%E2%80%99universaliser_l%E2%80%99usage_de_la_langue_fran%C3%A7aise ), Japan ( https://nation.cymru/culture/japanese-language-subjected-to-welsh-not-style-punishment-takes-inspiration-from-cymraeg/ ) , Turkey, Spain, and many others. Often, these processes are associated with an attempt to impose a dominant culture or politics via language substitution—consider Catalan independence movements in Spain, for example.
+
+With technological promotion, the increased danger is that suppression no longer needs to be forced; instead, the "modernity" and ease of use of the tool acts as a vector to cause adoption. Before LLMs, we saw, and continue to see, "social bubble" effects where online groups iterate themselves into extreme viewpoints. ( https://www.populismstudies.org/Vocabulary/social-bubble/ ); LLMs worsen this by increasingly also homogenising those perspectives in other directions, and by producing content faster than a human can. 
+
+Indeed, even before LLMs, the ease with which Internet-based technologies allow us to publish content to the entire world has allowed unwitting damage to minority cultures. An American teenager with no Scots knowledge singlehandedly degraded much of the Scots-language Wikipedia during the late 2010s, with knock-on effects in media representation of the language and culture worldwide. ( https://www.theguardian.com/uk-news/2020/aug/26/shock-an-aw-us-teenager-wrote-huge-slice-of-scots-wikipedia )
+
+**Example: Volume of content generation**
+
+A Graphite study shows https://graphite.io/five-percent/more-articles-are-now-created-by-ai-than-humans that LLMs now generate more content on the internet than humans. Students can discuss what this might mean about unique perspectives and the place for human voices and thought. Students may be prompted to consider the danger of conformity in general: and how much we can trust online content without provenance! Educators might discuss the Scots Wikipedia scandal mentioned above as an example of how, even without LLMs, technology amplifies the actions of individuals in potentially harmful ways.
+
+**Example: Essay "help"**
+
+Students almost certainly have used LLMs to generate or "help" with essay writing or editing. Discuss, with prompting an LLM in class, where individual style may be a matter of taste—and how the style biases of the LLM are themselves obvious. Compare to the diverse range of styles found in (English) literature—do the students think that an LLM would have allowed James Joyce to write Ulysses? Or William Shakespeare to write his plays, given his invention (or at least promotion) of many new words in the English language?
+(This can become a discussion about the need for critical thinking, creativity and analysis in any text.)
+
+**Example: Homogenisation beyond text** 
+
+Image generation models—such as DALL-E, Stable Diffusion, etc—exhibit biases in the way they respond to prompts. ( https://www.tandfonline.com/doi/full/10.1080/00043125.2024.2330340 ). With reference to the images in the linked article, students can discuss the biases they see, or do not see, in the responses; and link them to their own self-image.
+
+## Summary
+
+In this chapter, we have raised a number of repeating socio-technical issues and linked these to the UN Sustainable Development Goals. We have also provided examples of how these topics could be introduced to learners, linking directly to the [QAA Computing Subject Benchmark](https://www.qaa.ac.uk/docs/qaa/sbs/sbs-computing-22.pdf?sfvrsn=ebb3dc81_4) statement 1.17 regarding sustainability and 1.14 regarding equality, diversity and inclusion, specifically the consideration point: “demonstrating areas in software engineering and application development that require a professional and reflective approach to addressing bias and lack of diversity in data and design of computing solutions, systems and protocols.”
+
+We hope that these ideas alongside the [QAA and AdvanceHE Education for Sustainable Development Guidance](https://www.advance-he.ac.uk/knowledge-hub/education-sustainable-development-guidance) will help embed these key ideas throughout our curricula. In addition, we have provided a list of recommended further reading that will expand on the ideas introduced more fully, and provide inspiration for how we can introduce these key topics to our students and lead to a more sustainable, and ethical, future for all.
 
 ## Quarto Markdown quick examples
 
