@@ -45,9 +45,54 @@ In this chapter we look at a number of topics where sustainability, AI, and educ
 
 At the end of this chapter we will bring it back to education with some practical resources you can use. You will find classroom activities that support responsible computing interspersed throughout, and a reading list of our favourite articles and books. Feel free to pick some of them and plant them straight into your own curriculum. And weather-allowing, from these seeds we will watch the growth of a new, curious and slightly more sustainable generation of students and future teachers.
 
-### A subsection
+## Responsible compute and the UN Sustainable Development Goals
 
-This is an example subsection, starting with `###`.
+In this section we will introduce a number of the key issues relating to responsible compute through the lens of the UN Sustainable Development Goals, an outcome of the 2025 UN 2030 Agenda for Sustainable Development . These are a series of 17 goals that address a number of key international issues.
+
+### Engineering Inequities
+
+Failure to consider all members of society in the design and development of products can lead to technologies that privilege some but are not fit for purpose for others. Examples of this include near infra-red automatic soap dispensers (13, p68), which do not “see” darker skin tones due to their lower reflectivity, and “Shirley” cards in photography (13, pp 103-106) , which were designed to help colour balance films but were entirely based on white models. Despite known issues with  the film itself and how the printing machines were configured, a diverse “Shirley” card was not introduced until the mid-1990s. 
+
+These inequities in film photography have been echoed in facial recognition technologies. For over 50 years, the standard reference image used in image processing papers was “Lena”, a cropped image from a November 1972 issue of Playboy. As a result, this image also appears in many course materials and textbooks on image recognition. Use of the image in academic articles has since been banned, due to ethical issues relating to its provenance. In 2015, an issue was reported with the Google Photos app labelling black people as gorillas. Google claimed that this is due to a lack of diverse images of people in its training set, and that the label “gorilla” would no longer be applied to groups of photos while an alternative solution was developed. In 2023, the New York Times reported that the issue was still yet to be resolved, and was also impacting Apple’s image recognition.(24) 
+
+In 2018 Michael Rosen received a standing ovation at the last ever National Union of Teachers conference after reciting his poem The Data Have Landed. The poem concludes with pupils becoming data, reflecting concerns over the datafication of compulsory education. Reiterating sentiments in his previously published short story Alice in Dataland. Social inequities have long been highlighted in popular culture, for example the hip-hop classic  White Lines and Anthony Burgess’ novel American Psycho. Some are repeated in the data driven decision making systems that influence all dimensions of our daily lives. Multiple examples of which are highlighted in Virginia Eubanks’ 2018 book Automating Inequality. 
+
+The free website inequalities.ai provides maps that show how ChatGPT 4o-mini rates regions by comparative properties (the default map shows how it compares countries by "is smarter", placing Europe, North America, China, India and Australasia as "smart", and much of central and western Africa as "not smart" by comparison). This illustrates how bias continues to be an issue with modern, popular "AI" tools.
+
+#### Classroom activities: Facial Recognition workshop
+
+The Programming Historian lesson [Facial Recognition in Historical Photographs with Artificial Intelligence in Python](https://programminghistorian.org/en/lessons/facial-recognition-ai-python) introduces key concepts of facial recognition. This tutorial can be expanded to introduce key issues related to inequalities.
+
+**Example: Blackish, Series 5 Episode 10** 
+In this episode Diane is “invisible” in her class photo. This can be a starting point to discuss engineered inequity. 
+
+**Example: Lena and Google Photos**
+An opportunity to discuss the culture of the research labs where image recognition technologies were developed, how this became part of the “canon”, and issues with inadequate training data.
+
+For an example of how these resources can be included, see Programming Historian - workshop overview.
+
+#### Hardware and the environment
+
+Most environmental discussions relating to data-intensive computing are focused on the direct power costs of running increasingly large and dense collections of compute and storage, with increasing concerns relating to water use in cooling systems.
+
+However, the main environmental harms relate to the acquisition of the raw materials required and the embedded carbon in the manufacturing process. **Tantalum, tin, gold**, and other elements are all essential to the production of modern microelectronics. Their minerals are often located in regions with a history of conflict - most notably the Democratic Republic of Congo (DRC) - where demand results in  neocolonial forces driving further instability on top of the existing legacies of colonial pasts (6). A rush for gold has led to deforestation in the Amazon and increasing concern about the safety of workers in artisanal mines(7). Blood gold, which is illegally mined, finds its way into legitimate supply chains with false documentation(8). 
+
+The brine beneath Bolivia’s salt flats contain rich deposits of lithium, an essential component in electric batteries. As this is becoming industrialised there are concerns about who really benefits, the local communities or the companies involved, and about the proposed process and the levels of water required which may impact on neighbouring settlements. 
+
+Mining of **coltan**, the dominant source of tantalum (and niobium), is infamous for being deeply exploitative, with hard manual labour the dominant process used in the DRC. As the drive to build data centres has led to natural land being displaced in North America, China and Europe, so coltan mining has lead to deforestation, the near eradication of endangered species (gorillas, in particular, hunted for bushmeat to also feed the miners), and water pollution from dust spoil. There are significant health implications for the workers themselves, with elevated respiratory problems due to that same dust pollution (9), and ionising radiation doses approaching the annual exposure limits for UK nuclear industry employees (10),(11). 
+
+#### Classroom activities: Exploring the impact of mining 
+
+Current business models are based upon planned obsolescence. This could lead to a discussion of the sustainability of this business model and why the hardware cannot just be manufactured and why computational hardware has a short supported lifespan compared to its actual usable lifespan.
+
+**Example: River of Gold**
+Watch the documentary River of Gold: (https://riverofgoldfilm.com/about-the-film/)
+Explore how the [Amazon Aid Be a Better Guide](https://amazonaid.org/be-a-better-consumer/)relates to the production of electronic hardware
+
+**Example: Simon Reeve’s South America, Episodes 3 & 4**
+Episode 3 is in the Andes and features a high altitude gold mine and the working conditions of employees. Episode 4 features the salt flats and lithium extraction
+
+These issues can also be discussed in workshops relating to code optimisation and green compute. Reasons for optimisation may be for decreasing time to result, or to optimise the amount of social good for the environmental harms.
 
 ## Quarto Markdown quick examples
 
