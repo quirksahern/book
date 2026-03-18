@@ -12,7 +12,7 @@ author:
   - name: Leo Rivera
     email: author@three.com
     affiliations: School of Mathematics and Maxwell Institute for the Mathematical Sciences, University of Edinburgh
-  - name: Pawel
+  - name: PPawel Orzechowski
     email: author@three.com
     affiliations: School of Mathematics and Maxwell Institute for the Mathematical Sciences, University of Edinburgh
 
