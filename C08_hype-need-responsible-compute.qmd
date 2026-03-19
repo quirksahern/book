@@ -76,7 +76,7 @@ For an example of how these resources can be included, see Programming Historian
 
 #### Hardware and the environment
 
-![](/chapters/images/E_SDG_PRINT-8.jpg "8 Decent work and Economic Growth"){fig-alt="8 Decent work and Economic Growth" width=20%}
+![](/chapters/images/E_SDG_PRINT-08.jpg "8 Decent work and Economic Growth"){fig-alt="8 Decent work and Economic Growth" width=20%}
 ![](/chapters/images/E_SDG_PRINT-12.jpg "12 Responsible Consumption and Production"){fig-alt="12 Responsible Consumption and Production" width=20%}
 
 Most environmental discussions relating to data-intensive computing are focused on the direct power costs of running increasingly large and dense collections of compute and storage, with increasing concerns relating to water use in cooling systems.
@@ -104,8 +104,8 @@ These issues can also be discussed in workshops relating to code optimisation an
 
 ### Data acquisition and workforce exploitation 
 
-![](/chapters/images/E_SDG_PRINT-3.jpg "3 Good health and Well-being"){fig-alt="3 Good health and Well-being" width=20%}
-![](/chapters/images/E_SDG_PRINT-8.jpg "8 Decent work and Economic Growth"){fig-alt="8 Decent work and Economic Growth" width=20%}
+![](/chapters/images/E_SDG_PRINT-03.jpg "3 Good health and Well-being"){fig-alt="3 Good health and Well-being" width=20%}
+![](/chapters/images/E_SDG_PRINT-08.jpg "8 Decent work and Economic Growth"){fig-alt="8 Decent work and Economic Growth" width=20%}
 In 2019, the IBM corporation was criticised for using Flickr photos in a facial-recognition project without obtaining the consent of those who had created or were featured in the images [@noauthor_ibm_2019].
 
 As most images used for machine learning are scraped from the internet and are not well tagged, a large workforce is needed to create this additional metadata. Similarly, tagging of content as illegal or otherwise problematic requires a large amount of initial training data which is manually tagged by humans. To do so at scale, at an affordable cost, AI companies employ outsourcing partners such as Sama, which pay workers in Kenya, Uganda and India a pittance (typically $2/hr) for this work [@perrigo_exclusive_2023] . This is true even when the content being labelled is known to be obscene and/or deeply distressing - graphic descriptions of sexual assault, for example, or images depicting abuse. To their credit, eventually Sama cancelled some of their worst contracts with AI companies, but other outsourcing companies exist and still perform similar work.
@@ -154,7 +154,7 @@ This website is a project of the Responsible AI Collective, an archive of actual
 
 ### Cultural Colonialism
 
-![](/chapters/images/E_SDG_PRINT-4.jpg "4 Quality Education"){fig-alt="4 Quality Education" width=20%}
+![](/chapters/images/E_SDG_PRINT-04.jpg "4 Quality Education"){fig-alt="4 Quality Education" width=20%}
 ![](/chapters/images/E_SDG_PRINT-10.jpg "10 Reduced Inequalities"){fig-alt="10 Reduced Inequalities" width=20%}
 A related problem to inequity in "AI model training" is inequity in generated content. 
 
