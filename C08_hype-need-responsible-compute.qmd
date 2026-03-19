@@ -180,7 +180,7 @@ Students almost certainly have used LLMs to generate or "help" with essay writin
 
 **Example: Homogenisation beyond text** 
 
-Image generation models—such as DALL-E, Stable Diffusion, etc—exhibit biases in the way they respond to prompts. [@park_white_2024] With reference to the images in the linked article, students can discuss the biases they see, or do not see, in the responses; and link them to their own self-image.
+Image generation models, such as DALL-E, Stable Diffusion, etc., exhibit biases in the way they respond to prompts. [@park_white_2024] With reference to the images in the linked article, students can discuss the biases they see, or do not see, in the responses; and link them to their own self-image.
 
 ## Summary
 
