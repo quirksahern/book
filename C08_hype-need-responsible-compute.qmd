@@ -6,9 +6,9 @@ author:
     email: s.ahern@ucl.ac.uk
     corresponding: true
     affiliations: Centre for Advanced Research Computing, University College London
-  - name: Samuel Skipsey
-    email: author@two.com
-    affiliations: Edinburgh Medical School, University of Edinburgh
+  - name: Sam Skipsey
+    email: Samuel.Skipsey@glasgow.ac.uk
+    affiliations: School of Physics and Astronomy, University of Glasgow
   - name: Leo Rivera
     email: author@three.com
     affiliations: School of Mathematics and Maxwell Institute for the Mathematical Sciences, University of Edinburgh
