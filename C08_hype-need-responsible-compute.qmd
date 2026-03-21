@@ -11,10 +11,10 @@ author:
     affiliations: School of Physics and Astronomy, University of Glasgow
   - name: Leo Riviera
     email: leo.riviera@voxa.dev
-    affiliations: School of Mathematics and Maxwell Institute for the Mathematical Sciences, University of Edinburgh
+    affiliations: 
   - name: Pawel Orzechowski
     email: pawel.orzechowski@ed.ac.uk
-    affiliations: Edinburgh Medical School, University of Edinburgh, University of Edinburgh
+    affiliations: Edinburgh Medical School, University of Edinburgh
 
 keywords:
   - ethics
@@ -75,7 +75,7 @@ In this episode Diane is “invisible” in her class photo. This can be a start
 
 An opportunity to discuss the culture of the research labs where image recognition technologies were developed, how this became part of the “canon”, and issues with inadequate training data.
 
-For an example of how these resources can be included, see Programming Historian - workshop overview.
+For an example of how these resources can be included, see: Ahern, S. (2026). Image recognition - history, ethics and moral dilemmas. Workshop session plan. (1.0). Zenodo. (https://doi.org/10.5281/zenodo.19148713)
 
 #### Hardware and the environment
 
