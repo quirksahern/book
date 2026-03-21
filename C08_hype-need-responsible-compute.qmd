@@ -204,49 +204,49 @@ We hope that these ideas alongside the [QAA and AdvanceHE Education for Sustaina
 
 ## Further Reading
 
-### bell hooks: Teaching to Transgress
+**bell hooks: Teaching to Transgress**
 
 Hooks, B. (1994). Teaching to transgress : education as the practice of freedom / Bell Hooks. Routledge.
 
 This book is not about technology, but about how we good about the practice of education. It is about our relationships with our students, and being our authentic selves in learning spaces. This approach is fundamental to meaningful discussion of the issues raised in the chapter.
 
-### Virginia Eubanks: Automating Inequality
+**Virginia Eubanks: Automating Inequality**
 
 Eubanks, V. (2019). Automating inequality : how high-tech tools profile, police, and punish the poor / Virginia Eubanks. St. Martin’s Press.
 
 This is a USA focused book. It discusses a range of issues related to algorithmic decision making that have negatively impacted on less privileged areas of society. The spur for writing the book was Eubanks’ partner falling foul of a health insurance algorithm and being denied funding for health care.
 
-### Ruha Benjamin: Race After Technology: abolitionist tools for the new Jim code
+**Ruha Benjamin: Race After Technology: abolitionist tools for the new Jim code**
 
 Benjamin, R. (2020). Race after technology : abolitionist tools for the new Jim code / Ruha Benjamin. Polity.
 
 History is littered with technologies that “other”, in this book Benjamin explores how technologies have the ability to entrench existing inequities whilst appearing at a surface level to be neutral.
 
-### Ulises A. Mejias and Nick Couldry: Data Grab - The New Colonialism of Big Tech and How to Fight Back
+**Ulises A. Mejias and Nick Couldry: Data Grab - The New Colonialism of Big Tech and How to Fight Back**
 
 Mejias, U. A., & Couldry, N. (2025). Data grab : the new colonialism of big tech and how to fight back / Ulises A. Mejias & Nick Couldry. The University of Chicago Press.
 
 This book explores data acquisition as a colonial act, comparing it to the land grabs during the age of Empire. It introduces and discusses key topics such as data ownership and individual data rights.
 
-### Sheila Jasanoff and Sang-Hyun Kim: Dreamscapes of modernity : sociotechnical imaginaries and the fabrication of power 
+**Sheila Jasanoff and Sang-Hyun Kim: Dreamscapes of modernity : sociotechnical imaginaries and the fabrication of power** 
 
 Jasanoff, S., & Kim, S.-H. (Eds.). (2016). Dreamscapes of modernity : sociotechnical imaginaries and the fabrication of power / edited by Sheila Jasanoff and Sang-Hyun Kim. The University of Chicago Press
 
 Sociotechnical imaginaries are transnational concepts, this was the first text to explore this concept in depth. It introduces the implicit ideas about public purposes, collective futures, and the common good in scientific and technology progress. 
 
-### Shoshana Zuboff: The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
+**Shoshana Zuboff: The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power**
 
 Zuboff, S. (2020). The age of surveillance capitalism : the fight for the future at the new frontier of power / Shoshana Zuboff. Profile Books.
 
 This book discusses the business models behind big tech, and how convenience has been traded for privacy. How we have gotten to where we are with data driven technologies and industries in the 21st century.
 
-### Cory Doctorow: Enshittification: Why Everything Suddenly Got Worse and What to Do About It
+**Cory Doctorow: Enshittification: Why Everything Suddenly Got Worse and What to Do About It**
 
 Doctorow, Cory. (2025) Enshittification: Why Everything Suddenly Got Worse and What to Do About It   MCD
 
 This book more generally discusses the modern phenomenon of "Big Tech" and hypothesises a common pattern to unethical behaviour, whilst suggesting an anti-capitalist response. (Note: book is available in electronic form, DRM-free, from Doctorow's own web-store, https://shop.craphound.com)
 
-### Edwin Black: IBM and the Holocaust
+**Edwin Black: IBM and the Holocaust**
 
 Black, Edwin (2001) IBM and the Holocaust Crown Publishers (USA), Little, Brown and Company (UK)
 
@@ -256,7 +256,7 @@ A meticulously researched piece covering the knowing involvement of IBM (and its
 
 ## References {.unnumbered}
 
-:::
+
 
 
 
