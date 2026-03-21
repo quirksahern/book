@@ -35,7 +35,7 @@ with its sloppy sludge of half-melted mess to deal with. Disturbingly, current n
 (self-serving) agenda. The chorus of this song is 'growth, growth, growth', but growth where and why? We were sold on the dream of machines doing 
 the dishes so that we can write poetry... but instead machines write poetry and we are left with a pile of dirty dishes. Can we afford for art and critical thinking to become on-demand paid subscriptions ('brain as a service') as we outsource our criticality like we delegate our driving to Uber? Is it good for society to replace human companionship with chatbot ‘partners’?
 
-> “how do we guarantee that computers and other cultural products are not so pleasurable that they discourage us from engaging in absolutely necessary forms of social engagement?” [@muller_prometheanism_2016]
+> “how do we guarantee that computers and other cultural products are not so pleasurable that they discourage us from engaging in absolutely necessary forms of social engagement?” [@golumbia,2017]
 
 As educators, our responsibility is not to prepare students for the grim post-brain-apocalyptic future, but to inspire them to create a better, sustainable world.
 
@@ -51,7 +51,10 @@ In this section we will introduce a number of the key issues relating to respons
 
 ### Engineering Inequities
 
+::: {.column-margin}
 ![](/chapters/images/E_SDG_PRINT-10.jpg "10 Reduced Inequalities"){fig-alt="10 Reduced Inequalities" width=20%}
+:::
+
 Failure to consider all members of society in the design and development of products can lead to technologies that privilege some but are not fit for purpose for others. Examples of this include near infra-red automatic soap dispensers [@benjamin_race_2019], which do not “see” darker skin tones due to their lower reflectivity, and “Shirley” cards in photography [@benjamin_race_2019], which were designed to help colour balance films but were entirely based on white models. Despite known issues with  the film itself and how the printing machines were configured, a diverse “Shirley” card was not introduced until the mid-1990s. 
 
 These inequities in film photography have been echoed in facial recognition technologies. For over 50 years, the standard reference image used in image processing papers was “Lena”, a cropped image from a November 1972 issue of Playboy. As a result, this image also appears in many course materials and textbooks on image recognition. Use of the image in academic articles has since been banned, due to ethical issues relating to its provenance. In 2015, an issue was reported with the Google Photos app labelling black people as gorillas. Google claimed that this is due to a lack of diverse images of people in its training set, and that the label “gorilla” would no longer be applied to groups of photos while an alternative solution was developed. In 2023, the New York Times reported that the issue was still yet to be resolved, and was also impacting Apple’s image recognition.[@bandara_googles_2023] 
@@ -76,8 +79,10 @@ For an example of how these resources can be included, see Programming Historian
 
 #### Hardware and the environment
 
+::: {.column-margin}
 ![](/chapters/images/E_SDG_PRINT-08.jpg "8 Decent work and Economic Growth"){fig-alt="8 Decent work and Economic Growth" width=20%}
 ![](/chapters/images/E_SDG_PRINT-12.jpg "12 Responsible Consumption and Production"){fig-alt="12 Responsible Consumption and Production" width=20%}
+:::
 
 Most environmental discussions relating to data-intensive computing are focused on the direct power costs of running increasingly large and dense collections of compute and storage, with increasing concerns relating to water use in cooling systems.
 
@@ -104,8 +109,11 @@ These issues can also be discussed in workshops relating to code optimisation an
 
 ### Data acquisition and workforce exploitation 
 
+::: {.column-margin}
 ![](/chapters/images/E_SDG_PRINT-03.jpg "3 Good health and Well-being"){fig-alt="3 Good health and Well-being" width=20%}
 ![](/chapters/images/E_SDG_PRINT-08.jpg "8 Decent work and Economic Growth"){fig-alt="8 Decent work and Economic Growth" width=20%}
+:::
+
 In 2019, the IBM corporation was criticised for using Flickr photos in a facial-recognition project without obtaining the consent of those who had created or were featured in the images [@noauthor_ibm_2019].
 
 As most images used for machine learning are scraped from the internet and are not well tagged, a large workforce is needed to create this additional metadata. Similarly, tagging of content as illegal or otherwise problematic requires a large amount of initial training data which is manually tagged by humans. To do so at scale, at an affordable cost, AI companies employ outsourcing partners such as Sama, which pay workers in Kenya, Uganda and India a pittance (typically $2/hr) for this work [@perrigo_exclusive_2023] . This is true even when the content being labelled is known to be obscene and/or deeply distressing - graphic descriptions of sexual assault, for example, or images depicting abuse. To their credit, eventually Sama cancelled some of their worst contracts with AI companies, but other outsourcing companies exist and still perform similar work.
@@ -124,7 +132,10 @@ In this part of the tutorial, you could discuss the source of the file contents 
 
 ### Surveillance, Sousveillance and Civil Liberties
 
+::: {.column-margin}
 ![](/chapters/images/E_SDG_PRINT-16.jpg "16 Peace, Justice and String institutions"){fig-alt="16 Peace, Justice and String institutions" width=20%}
+:::
+
 In 2018 the British Council published an article based on a letter by Tim Berners Lee [@noauthor_web_2013], where he raised concerns about the dark-side of the web, alongside his hopes for the future. Specifically, he raised concerns around the concentration of power and the gatekeeping effect which enables a “handful of platforms to control which ideas and opinions are seen and shared”. 
 
 These fears are now being realised. According to the Fortune 500 Global rankings, Amazon is the second largest grossing organisation in 2025 and has been in the Fortune 500 Global rankings list for 17 years. Apple is 8th, Alphabet 13th, Microsoft 22nd and Meta Platforms 41st. These companies rely heavily on our data for their platforms and services, producing tools and platforms that shape our everyday lives.[@noauthor_fortune_nodate]
@@ -154,8 +165,11 @@ This website is a project of the Responsible AI Collective, an archive of actual
 
 ### Cultural Colonialism
 
+::: {.column-margin}
 ![](/chapters/images/E_SDG_PRINT-04.jpg "4 Quality Education"){fig-alt="4 Quality Education" width=20%}
 ![](/chapters/images/E_SDG_PRINT-10.jpg "10 Reduced Inequalities"){fig-alt="10 Reduced Inequalities" width=20%}
+:::
+
 A related problem to inequity in "AI model training" is inequity in generated content. 
 
 Large Language Models generate "plausible" text based on the patterns found in the material they are trained on. However, this material is overwhelmingly English-language, and written by US or British citizens, introducing a cultural bias into the responses from the models themselves. 
