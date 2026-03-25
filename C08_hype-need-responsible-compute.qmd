@@ -75,7 +75,7 @@ In this episode Diane is “invisible” in her class photo. This can be a start
 
 An opportunity to discuss the culture of the research labs where image recognition technologies were developed, how this became part of the “canon”, and issues with inadequate training data.
 
-For an example of how these resources can be included, see: Ahern, S. (2026). Image recognition - history, ethics and moral dilemmas. Workshop session plan. (1.0). Zenodo. (https://doi.org/10.5281/zenodo.19148713)
+For an example of how these resources can be included, see: [Ahern, S. (2026). Image recognition - history, ethics and moral dilemmas. Workshop session plan. (1.0). Zenodo.] (https://doi.org/10.5281/zenodo.19148713)
 
 #### Hardware and the environment
 
@@ -98,8 +98,9 @@ Current business models are based upon planned obsolescence. This could lead to 
 
 **Example: River of Gold**
 
-Watch the documentary River of Gold: (https://riverofgoldfilm.com/about-the-film/)
-Explore how the [Amazon Aid Be a Better Guide](https://amazonaid.org/be-a-better-consumer/)relates to the production of electronic hardware
+Watch the documentary [River of Gold](https://riverofgoldfilm.com/about-the-film/)
+
+Explore how the [Amazon Aid Be a Better Guide](https://amazonaid.org/be-a-better-consumer/) relates to the production of electronic hardware
 
 **Example: Simon Reeve’s South America, Episodes 3 & 4**
 
@@ -172,8 +173,7 @@ This website is a project of the Responsible AI Collective, an archive of actual
 
 A related problem to inequity in "AI model training" is inequity in generated content. 
 
-Large Language Models generate "plausible" text based on the patterns found in the material they are trained on. However, this material is overwhelmingly English-language, and written by US or British citizens, introducing a cultural bias into the responses from the models themselves. 
-[@tao_cultural_2024][@jakesch_co-writing_2023]
+Large Language Models generate "plausible" text based on the patterns found in the material they are trained on. However, this material is overwhelmingly English-language, and written by US or British citizens, introducing a cultural bias into the responses from the models themselves [@tao_cultural_2024], [@jakesch_co-writing_2023].
 
 As pressure is placed on educational institutions to include "AI" in teaching-related roles, this brings the risk that students learn homogeneous values, potentially those of foreign cultures. This extends not merely to values, but also styles of writing: the "distinctive" tone of an LLM-generated piece of text is a distillation of the dominant styles in its training set. 
 [@agarwal_ai_2025], and writers relying on LLMs to "co-develop" essays tend to defer to the LLM's style suggestions relative to their own, even when these stylistic differences are those of culture, not correctness. The effect begins with normative suggestions from spell- and grammar-checkers in text editing software since the 1980s—British English speakers often being "corrected" by default US English software; and also introducing unique cases of language drift when the software encountered words that were not in its dictionary [@zimmer_when_2007].
@@ -183,6 +183,7 @@ This inhibition of local culture in favour of a "preferred" culture is that of c
 With technological promotion, the increased danger is that suppression no longer needs to be forced; instead, the "modernity" and ease of use of the tool acts as a vector to cause adoption. Before LLMs, we saw, and continue to see, "social bubble" effects where online groups iterate themselves into extreme viewpoints. [@noauthor_social_nodate]; LLMs worsen this by increasingly also homogenising those perspectives in other directions, and by producing content faster than a human can. 
 
 Indeed, even before LLMs, the ease with which Internet-based technologies allow us to publish content to the entire world has allowed unwitting damage to minority cultures. An American teenager with no Scots knowledge singlehandedly degraded much of the Scots-language Wikipedia during the late 2010s, with knock-on effects in media representation of the language and culture worldwide.[@brooks_shock_2020]
+
 **Example: Volume of content generation**
 
 A Graphite study, [@paredes_more_2025], shows that LLMs now generate more content on the internet than humans. Students can discuss what this might mean about unique perspectives and the place for human voices and thought. Students may be prompted to consider the danger of conformity in general: and how much we can trust online content without provenance! Educators might discuss the Scots Wikipedia scandal mentioned above as an example of how, even without LLMs, technology amplifies the actions of individuals in potentially harmful ways.
