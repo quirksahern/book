@@ -11,7 +11,7 @@ author:
     affiliations: School of Physics and Astronomy, University of Glasgow
   - name: Leo Riviera
     email: leo.riviera@voxa.dev
-    affiliations: 
+    affiliations: Voxa
   - name: Pawel Orzechowski
     email: pawel.orzechowski@ed.ac.uk
     affiliations: Edinburgh Medical School, University of Edinburgh
