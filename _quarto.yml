@@ -52,7 +52,7 @@ book:
         - 00-chapter-template.qmd
         - C01_teaching-python.qmd
 #        - C02_genai-before-during-after.qmd
-#        - C03_online-teaching-reflections.qmd
+        - C03_online-teaching-reflections.qmd
 #        - C04_computer-says-no.qmd
 #        - C05_coding-mindset.qmd
         - C06_feminists-and-anarchists.qmd
@@ -73,7 +73,7 @@ book:
 #        - C21_programming-across-disciplines-usefulness.qmd
         - C22_interdisciplinary-by-design.qmd
         - C23_pair-programming-fusion.qmd
-#        - C24_lost-in-translation.qmd
+        - C24_lost-in-translation.qmd
 #        - C25_supporting-new-tutors.qmd
 #        - C26_assessment-and-feedback-overview.qmd
 #        - C27_curriculum-design-overview.qmd
@@ -84,7 +84,7 @@ book:
         - C32_civil-engineering.qmd
         - C33_coding-anxiety.qmd
 #        - C34_three-stars-one-wish.qmd
-#        - C35_action-feedback-plan.qmd
+        - C35_action-feedback-plan.qmd
         - C36_pair-programming-across-disciplines.qmd
         - C38_skills-based-assessment.qmd
         - 99-bibliography.qmd

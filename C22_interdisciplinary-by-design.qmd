@@ -3,16 +3,20 @@ title: "Interdisciplinary by Design: The Centre for Data, Culture, & Society Tra
 bibliography: references.bib
 author:
   - name: Lucia Michielin
-    email: TODO
+    email: lucia.michielin@ed.ac.uk
     corresponding: true
-    affiliations: TODO
+    affiliations: Edinburgh Futures Institute, University of Edinburgh
   - name: Lisa Otty
-    email: TODO [can omit]
-    affiliations: TODO
+    email: Lisa.Otty@ed.ac.uk
+    affiliations: Edinburgh Futures Institute, University of Edinburgh
 
 keywords:
-  - TODO
-  - TODO
+  - interdisciplinary learning
+  - computational methods
+  - open training material
+  - research innovation
+  - humanities
+
 ---
 
 ## Introduction
